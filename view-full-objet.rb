@@ -8,6 +8,8 @@
 # # Just select an item and activate the plugin (a keyboard shortcut is recommended). Everything that touches the selected element will be presented on the screen.
 # The Zoom Window tool will then be activated to zoom in on another part of the work.
 
+# set for metter units
+
 # Thanks to ChatGPT who helped me to realize this script in the Ruby language that I don't know.
 
 
@@ -21,6 +23,8 @@
 # L'outil Zoom Window sera ensuite activé pour permettre de zoomer sur une autre partie du travail.
 
 # Merci à ChatGPT qui m'a aidé à réaliser ce script dans le  langage Ruby que je ne connais pas.
+
+# Correct quand on selectionne le metre comme unité.
  
 # require 'sketchup.rb' // maybe not necessary
 require 'extensions.rb'
