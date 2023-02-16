@@ -30,7 +30,7 @@ require 'extensions.rb'
 
 # https://ruby.sketchup.com/top-level-namespace.html
 # https://ruby.sketchup.com/Sketchup/Camera.html
-#     load 'C:\SketchupPRO-2020\plugin\selection.rb'
+#     load 'C:\SketchupPRO-2020\plugin\view-full-objet.rb'
 # view = Sketchup.active_model.active_view;camera = view.camera;eye = camera.eye;target= camera.target
 # Sketchup.active_model.active_view.camera.fov
 #   eye = [1000,1000,1000]; target = [0,0,0]; up = [0,0,1]; my_camera = Sketchup::Camera.new eye, target, up; view = Sketchup.active_model.active_view; view.camera = my_camera
