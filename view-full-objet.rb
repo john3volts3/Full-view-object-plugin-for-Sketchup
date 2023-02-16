@@ -155,7 +155,7 @@ module ViewFullObject
       view.camera = camera
       view.refresh
 
-      unZoomPower *= zoom * 4
+      unZoomPower *= zoom * 4   # just arbitrary. Good for meter units.
       view = Sketchup.active_model.active_view
       camera = view.camera
       ex = camera.eye.x - ( unZoomPower * camera.direction.x )
