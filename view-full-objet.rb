@@ -1,7 +1,6 @@
 
 # This script helps to navigate around an object. If you have to change different areas of a large object,
-# you have  to zoom out and zoom in again and again. With this script, you can zoom out in one operation
-# and display 
+# you have  to zoom out and zoom in again and again. With this script, you can zoom out in one operation and display 
 # the whole object on the screen so that you can select another area to zoom in and work on.
 # The script activates the Zoom Window tool to easily and quickly re-zoom to the next area to work on.
 # A keyboard shortcut helps a lot. 
