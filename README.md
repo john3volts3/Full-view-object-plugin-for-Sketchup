@@ -12,9 +12,8 @@ INSTALLATION:
  - Linking a keyboard shortcut in Window/Preference
 
 USE: 
- When you are zoomed heavily on a part of an object and you want to move to another area of the object, simply use the shortcut key to make all the elements of the object appear on the screen. 
+ When you are zoomed heavily on a part of an object and you want to move to another area of the object, you just need to (must) select an element, either a net or a surface of the object and then press the shortcut key to make all the elements of the object appear on the screen. 
  After that, the Zoom Window tool is selected, which allows you to quickly zoom in by selecting the new working area.
- If you do not wish to re-zoom, simply select another tool.
 
 ------------------------------------------------------
 
@@ -38,6 +37,6 @@ INSTALLATION :
  - Associer un raccourci clavier dans Window/Préférence
 
 UTILISATION : 
- Quand on est fort zoomé sur une partie d'un objet et que l'on désire se déplacer vers une autre zone de l'objet, il suffit d'utiliser la touche de raccourcis pour faire apparaitre tous les éléments de l'objet à l'écran. 
+ Quand on est fort zoomé sur une partie d'un objet et que l'on désire se déplacer vers une autre zone de l'objet, il suffit de (il faut) sélectionner un élément, soit un filet, soit une surface de l'objet puis d'actionner  la touche de raccourci pour faire apparaître tous les éléments de l'objet à l'écran. 
  Après cela, l'outil Zoom Window est sélectionné, cela permet de rezoomer rapidement en sélectionnant la nouvelle zone de travail.
  Si on ne désire pas rezoomer, il suffit de sélectionner un autre outil.
