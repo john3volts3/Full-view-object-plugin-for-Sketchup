@@ -13,7 +13,7 @@ INSTALLATION:
 
 USE: 
  When you are zoomed heavily on a part of an object and you want to move to another area of the object, you just need to (must) select an element, either a net or a surface of the object and then press the shortcut key to make all the elements of the object appear on the screen. 
- After that, the Zoom Window tool is selected, which allows you to quickly zoom in by selecting the new working area.
+ After that, the Zoom Window tool is selected, which allows you to quickly zoom in by selecting the other tool.
 
 ------------------------------------------------------
 
