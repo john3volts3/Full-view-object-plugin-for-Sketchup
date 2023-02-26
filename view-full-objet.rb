@@ -74,7 +74,7 @@ require 'extensions.rb'
 # C:/Users/d/AppData/Roaming/SketchUp
 # C:/Users/d/AppData/Roaming/SketchUp/SketchUp 2021/SketchUp/Plugins/
 
-# https://ruby.sketchup.com/top-level-namespace.html
+# https://ruby.sketchup.com
 # https://ruby.sketchup.com/Sketchup/Camera.html
 #     load 'C:\SketchupPRO-2020\plugin\view-full-objet.rb'
 # view = Sketchup.active_model.active_view;camera = view.camera;eye = camera.eye;target= camera.target
@@ -92,6 +92,8 @@ module ViewFullObject
     # str = sprintf("ezX=%.3f  ezy=%.3f  ezz=%.3f ", ezX * camera.direction.x, ezy * camera.direction.y, ezz * camera.direction.z  )
     # #  p str
 
+      # It's necessary to selct the pointer tool.
+    Sketchup.send_action("selectSelectionTool:")
   
     model = Sketchup.active_model
     view = model.active_view
